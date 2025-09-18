@@ -44,3 +44,4 @@ build
 .upm
 .config
 .cache
+.vercel
